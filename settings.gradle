@@ -1,0 +1,2 @@
+rootProject.name = "Call Record"
+include ':app'
